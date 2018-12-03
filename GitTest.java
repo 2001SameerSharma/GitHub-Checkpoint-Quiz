@@ -1,10 +1,10 @@
 public class GitTest{
-		private String test;
+		String test;
 
 public GitTest(){
 	test = "This is my GitHub test";
+	System.out.println(test);
 }
-
 
 
 
